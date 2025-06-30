@@ -29,4 +29,27 @@ segue o exercicio de criar uma maquina virtual pelo browser:
 
 ![Criar Máquina Virtual pelo Browser](img/vm-browser-1.gif)
 
-## criando maquina virtual pelo cli
+## criando maquina via CLI
+
+exemplo do comando para criar uma maquina virtual via CLI:
+
+```bash
+az vm create \
+  --resource-group AZ104-TESTE \
+  --name az104-teste-vm \
+  --image Debian:debian-12:12-gen2:latest \
+  --admin-username douglastos \
+  --authentication-type password \
+  --admin-password "MinhaSenhaSuperForte@2025" \
+  --size Standard_DS1_v2 \
+  --public-ip-sku Basic \
+  --tags teste-az104=douglas
+```
+
+segue o coamando para criar uma maquina virtual via CLI:
+
+![Criar Máquina CLI](img/vm-cli-1.gif)
+
+a maquina criada via CLI
+
+![Maquina Criada CLI](img/vm-cli-2.png)
