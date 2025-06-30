@@ -48,8 +48,8 @@ az vm create \
 
 segue o coamando para criar uma maquina virtual via CLI:
 
-![Criar Máquina CLI](img/vm-cli-1.gif)
+![Criar Máquina CLI](img/vm-cli.gif)
 
 a maquina criada via CLI
 
-![Maquina Criada CLI](img/vm-cli-2.png)
+![Maquina Criada CLI](img/vm-cli-1.png)
