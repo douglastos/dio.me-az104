@@ -2,7 +2,7 @@
 <!-- markdownlint-disable MD045 -->
 <!-- markdownlint-disable MD041 -->
 
-<img src="https://certadda.com/wp-content/uploads/2020/11/azure-104.png" width="200"/><img src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" width="300"/>
+<img src="https://certadda.com/wp-content/uploads/2020/11/azure-104.png" width="200"/><img src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" width="500"/>
 
 # 🚀 Bootcamp AZ-104 - DIO
 
