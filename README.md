@@ -3,8 +3,7 @@
 <!-- markdownlint-disable MD041 -->
 
   <tr>
-    <td><img src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" width="500" />
-    <img src="https://certadda.com/wp-content/uploads/2020/11/azure-104.png" width="250">
+    <td> <img src="https://certadda.com/wp-content/uploads/2020/11/azure-104.png" width="250"><img src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" width="500" />
     </td>
   </tr>
 </table>
