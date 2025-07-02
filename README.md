@@ -12,16 +12,15 @@ Este bootcamp é focado na preparação para a certificação Microsoft Azure Ad
 
 Aqui você encontrará:\
 
-    📚 Exercícios práticos realizados durante o bootcamp
+- 📚 Exercícios práticos realizados durante o bootcamp\
 
-    ✅ Resumos e anotações dos conteúdos estudados
+- ✅ Resumos e anotações dos conteúdos estudados\
 
-    💡 Exemplos e scripts para auxiliar na prática diária
+- 💡 Exemplos e scripts para auxiliar na prática diária\
 
 O objetivo deste repositório é consolidar meu aprendizado, compartilhar conhecimento e também servir como guia para quem está se preparando para a certificação AZ-104.
 
 Confira abaixo os links para os exercícios e materiais do bootcamp!
-
 
 ## criando maquina virtual pelo browser
 
